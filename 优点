@@ -1,0 +1,1 @@
+websocketpp 是一个基于 Boost.Asio 的 C++ websocket 库，具有良好的性能和可扩展性。它支持同步和异步操作，并提供了丰富的 API，可以帮助开发者方便地实现 websocket 服务器和客户端。
